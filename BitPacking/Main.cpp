@@ -45,19 +45,5 @@ int main() {
 	printByte(get(byte, 5), "Get 5");
 
 
-	// - Get Tests -
-	/*uint8_t byte2 = 0b00101101;
-
-	printByte(byte2, "Byte2");
-	printByte(get(byte2, 0));
-	printByte(get(byte2, 1));
-	printByte(get(byte2, 2));
-	printByte(get(byte2, 3));
-	printByte(get(byte2, 4));
-	printByte(get(byte2, 5));
-	printByte(get(byte2, 6));
-	printByte(get(byte2, 7));*/
-
-
 	return 0;
 }
